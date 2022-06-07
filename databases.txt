@@ -1,0 +1,10 @@
+CREATE TABLE users(
+    usersId int(11) 
+);
+
+CREATE TABLE profiles();
+
+CREATE TABLE learners();
+
+
+block access to .inc files via httpd.conf
